@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Beast Coder
+# 👋 Hi, I'm Aditya Solanki
 
 Welcome to my GitHub! I'm a Python developer on a mission to transition into **Agentic AI Engineering**, where I combine the power of **LLMs**, **real-world APIs**, and **clean architecture** to build smart, automated apps that can think and act.
 
