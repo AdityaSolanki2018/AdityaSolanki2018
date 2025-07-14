@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a Python developer on a mission to transition into **A
 ## 🚀 What I'm Working On
 
 - 🔧 Building real **Agentic AI tools** with OpenAI GPT-4o and Gradio  
-- 📈 Sharing progress through my [100 Days of Python](https://github.com/YOUR_USERNAME/100-days-of-python) repo  
+- 📈 Sharing progress through my [100 Days of Python](http://github.com/AdityaSolanki2018/PythonProjects) repo  
 - 🧠 Learning advanced topics like:
   - Prompt engineering
   - LangChain
@@ -34,9 +34,9 @@ Welcome to my GitHub! I'm a Python developer on a mission to transition into **A
 
 | Project | Description |
 |--------|-------------|
-| [🧠 Agentic Brochure Generator](https://github.com/YOUR_USERNAME/agentic-ai-projects) | Scrapes website content and generates a humorous brochure using GPT-4o + Gradio |
-| [📰 Website Summarizer](https://github.com/YOUR_USERNAME/agentic-ai-projects) | Summarizes web content in Markdown using BeautifulSoup + GPT |
-| [🐍 100 Days of Python](https://github.com/YOUR_USERNAME/100-days-of-python) | Beginner-to-advanced Python projects to sharpen logic and fundamentals |
+| [🧠 Agentic Brochure Generator](https://github.com/AdityaSolanki2018/llmEngineering/tree/main/Project02) | Scrapes website content and generates a humorous brochure using GPT-4o + Gradio |
+| [📰 Website Summarizer](https://github.com/AdityaSolanki2018/llmEngineering/tree/main/Project01) | Summarizes web content in Markdown using BeautifulSoup + GPT |
+| [🐍 100 Days of Python](http://github.com/AdityaSolanki2018/PythonProjects) | Beginner-to-advanced Python projects to sharpen logic and fundamentals |
 
 ---
 
@@ -52,13 +52,13 @@ Welcome to my GitHub! I'm a Python developer on a mission to transition into **A
 
 ## 💬 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-NAME)
-- 💌 [Email](mailto:your.email@example.com)
+- 🔗 [LinkedIn](www.linkedin.com/in/aditya-solanki-2623ai)
+- 💌 [Email](mailto:solankiaditya2018@gmail.com)
 - 📁 [My Portfolio (Coming Soon)](https://your-website.com)
 
 ---
 
-> “Code like it’s your last day on earth. Learn like you’ll live forever.” – Beast Coder 💥
+> “Code like it’s your last day on earth. Learn like you’ll live forever.” – Aditya 💥
 
 <!---
 AdityaSolanki2018/AdityaSolanki2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
