@@ -40,9 +40,9 @@ Welcome to my GitHub! I'm a Python developer on a mission to transition into **A
 
 ---
 
-## ✨ Goals for 2025
+## ✨ Goals for 2026
 
-- ✅ Become job-ready in **Agentic AI Engineering**  
+- ✅ Become master in **Agentic AI Engineering**  
 - 🏗️ Build 10+ real-world AI micro-apps  
 - 📚 Earn certifications in LangChain, LLMOps  
 - 💼 Land a high-impact Python/AI role  
